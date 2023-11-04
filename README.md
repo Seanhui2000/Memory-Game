@@ -1,3 +1,3 @@
 # Memory-Game
 
-The Meme Generator is an interactive program that creates a Meme Template based off memes from the Internet utilizing hyperlinks. How this works is by using two memes based of the internet, you are able to generate a new meme template and display any funny caption you want! 
+The Memory Game is a colorful, visually-appealling, and fully interactive program that generates a 5x5 grid of unknown pictures. To play, simply click on any box and a picture of a monkey will flip over! Match this monkey to an identical monkey and that will create a successful pair. By matching every unique pair, you win the game!
